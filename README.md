@@ -1,5 +1,5 @@
 ## Hi, I'm Wildan 👋
-> Start Before Ready
+> Just do it.
 
 <!--
 **danfeat/danfeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
